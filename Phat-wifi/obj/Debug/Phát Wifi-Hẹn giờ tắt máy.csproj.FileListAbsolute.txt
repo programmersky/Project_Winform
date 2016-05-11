@@ -1,0 +1,16 @@
+E:\Visual Studio 2015\Projects\wifishutdown\Phát Wifi-Hẹn giờ tắt máy\bin\Debug\Phát Wifi-Hẹn giờ tắt máy.exe.config
+E:\Visual Studio 2015\Projects\wifishutdown\Phát Wifi-Hẹn giờ tắt máy\bin\Debug\Phát Wifi-Hẹn giờ tắt máy.exe
+E:\Visual Studio 2015\Projects\wifishutdown\Phát Wifi-Hẹn giờ tắt máy\bin\Debug\Phát Wifi-Hẹn giờ tắt máy.pdb
+E:\Visual Studio 2015\Projects\wifishutdown\Phát Wifi-Hẹn giờ tắt máy\obj\Debug\Phát Wifi-Hẹn giờ tắt máy.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2015\Projects\wifishutdown\Phát Wifi-Hẹn giờ tắt máy\obj\Debug\Phát_Wifi_Hẹn_giờ_tắt_máy.Form1.resources
+E:\Visual Studio 2015\Projects\wifishutdown\Phát Wifi-Hẹn giờ tắt máy\obj\Debug\Phát_Wifi_Hẹn_giờ_tắt_máy.Properties.Resources.resources
+E:\Visual Studio 2015\Projects\wifishutdown\Phát Wifi-Hẹn giờ tắt máy\obj\Debug\Phát Wifi-Hẹn giờ tắt máy.csproj.GenerateResource.Cache
+E:\Visual Studio 2015\Projects\wifishutdown\Phát Wifi-Hẹn giờ tắt máy\obj\Debug\Phát Wifi-Hẹn giờ tắt máy.exe
+E:\Visual Studio 2015\Projects\wifishutdown\Phát Wifi-Hẹn giờ tắt máy\obj\Debug\Phát Wifi-Hẹn giờ tắt máy.pdb
+E:\Visual Studio 2015\Projects\wifishutdown\Phát Wifi-Hẹn giờ tắt máy\bin\Debug\x64\Phát Wifi-Hẹn giờ tắt máy.exe.config
+E:\Visual Studio 2015\Projects\wifishutdown\Phát Wifi-Hẹn giờ tắt máy\bin\Debug\x64\Phát Wifi-Hẹn giờ tắt máy.exe
+E:\Visual Studio 2015\Projects\wifishutdown\Phát Wifi-Hẹn giờ tắt máy\bin\Debug\x64\Phát Wifi-Hẹn giờ tắt máy.pdb
+E:\Visual Studio 2015\Projects\wifishutdown\Phát Wifi-Hẹn giờ tắt máy\obj\Debug\Phát_Wifi_Hẹn_giờ_tắt_máy.Form2.resources
+E:\Visual Studio 2015\Projects\wifishutdown\Phát Wifi-Hẹn giờ tắt máy\obj\Debug\Phát_Wifi_Hẹn_giờ_tắt_máy.Form3.resources
+E:\Visual Studio 2015\Projects\wifishutdown\Phát Wifi-Hẹn giờ tắt máy\obj\Debug\Phát_Wifi_Hẹn_giờ_tắt_máy.Form4.resources
+E:\Visual Studio 2015\Projects\wifishutdown\Phát Wifi-Hẹn giờ tắt máy\obj\Debug\Phát_Wifi_Hẹn_giờ_tắt_máy.Form5.resources
