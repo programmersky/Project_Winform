@@ -1,0 +1,10 @@
+E:\Visual Studio 2015\Projects\AIPlus\AIPlus\bin\Debug\AIPlus.exe.config
+E:\Visual Studio 2015\Projects\AIPlus\AIPlus\bin\Debug\AIPlus.exe
+E:\Visual Studio 2015\Projects\AIPlus\AIPlus\bin\Debug\AIPlus.pdb
+E:\Visual Studio 2015\Projects\AIPlus\AIPlus\obj\Debug\AIPlus.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2015\Projects\AIPlus\AIPlus\obj\Debug\AIPlus.Form1.resources
+E:\Visual Studio 2015\Projects\AIPlus\AIPlus\obj\Debug\AIPlus.Properties.Resources.resources
+E:\Visual Studio 2015\Projects\AIPlus\AIPlus\obj\Debug\AIPlus.csproj.GenerateResource.Cache
+E:\Visual Studio 2015\Projects\AIPlus\AIPlus\obj\Debug\AIPlus.exe
+E:\Visual Studio 2015\Projects\AIPlus\AIPlus\obj\Debug\AIPlus.pdb
+E:\Visual Studio 2015\Projects\AIPlus\AIPlus\obj\Debug\AIPlus.Form2.resources
